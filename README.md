@@ -131,15 +131,9 @@ If you encounter a `TesseractNotFoundError`, ensure that:
 
 For deployment, ensure the `packages.txt` file is present, which will handle the installation of Tesseract on cloud platforms like Streamlit Cloud.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 - [Streamlit](https://streamlit.io/)
 
----
-
-This README covers everything from installation to deployment, making it easy for others to understand and use your project. Let me know if you need any further adjustments!
