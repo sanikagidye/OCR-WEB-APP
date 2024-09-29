@@ -1,10 +1,5 @@
 # OCR-WEB-APP
 
-Here’s a detailed **README** for your **OCR Web App** project that uses **Streamlit**, **Pytesseract**, and supports text extraction in both Hindi and English.
-
----
-
-# OCR Web Application
 
 ## Project Overview
 
@@ -30,7 +25,7 @@ This project is a web-based prototype that allows users to upload an image (in f
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ocr-web-app.git
+git clone https://github.com/sanikagidye/ocr-web-app.git
 cd ocr-web-app
 ```
 
@@ -60,11 +55,6 @@ For local development, you need to have Tesseract-OCR installed on your system. 
   sudo apt-get install tesseract-ocr-hin
   ```
 
-- **Mac** (using Homebrew):
-  ```bash
-  brew install tesseract
-  brew install tesseract-lang # Optional: For additional languages like Hindi
-  ```
 
 ### 4. Run the Application Locally
 Once all dependencies and Tesseract are installed, you can run the application using Streamlit:
