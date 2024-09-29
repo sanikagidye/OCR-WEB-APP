@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 
 # Set the path to Tesseract (required for Windows users)
-pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'  # Update this path if necessary
+#pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'  # Update this path if necessary
 
 # Function to preprocess the image (grayscale and thresholding)
 def preprocess_image(image):
